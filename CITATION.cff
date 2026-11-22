@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you reference Ocacity, please cite it as below."
+title: "Ocacity: AI website builder and coding workspace"
+type: software
+authors:
+  - name: "AURTIZ LTD"
+url: "https://ocacity.com"
+repository-code: "https://github.com/ocacity/ocacity"
+abstract: "Ocacity is an AI website builder and coding workspace that plans, builds, previews and tests websites and apps."
+keywords: [ocacity, ai website builder, ai coding workspace, nextjs]
+license: MIT

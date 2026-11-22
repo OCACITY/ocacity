@@ -1,0 +1,1 @@
+Build a one-page landing site for a small studio. Sections: hero with one call to action, three services, a short about, and a contact form. Clean, calm style with a white background and one accent colour. Make it responsive and accessible.

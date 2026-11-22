@@ -1,0 +1,9 @@
+name: Documentation issue
+description: Report an error or gap in the Ocacity docs
+labels: [documentation]
+body:
+  - type: textarea
+    attributes: {label: What is wrong or missing?}
+    validations: {required: true}
+  - type: input
+    attributes: {label: Page or file}
